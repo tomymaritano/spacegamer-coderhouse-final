@@ -104,6 +104,9 @@ body section #idRedes li:link {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.formulario2 img:hover {
+  background-color: rgba(0, 136, 226, 0.247); }
+
 .contactoformulario {
   display: flex;
   justify-content: center; }
@@ -189,7 +192,7 @@ textarea {
     font-size: 1.8rem; }
 
 footer {
-  background-image: url(/img/fondo.png);
+  background-image: url(../img/fondo.png);
   background-size: cover;
   position: relative; }
   footerafter {
@@ -262,19 +265,19 @@ footer {
     transform: scale(1.3);
     overflow: hidden; }
   .redesBlog .span1 {
-    background-image: url(/img/002-youtube.png);
+    background-image: url(../img/002-youtube.png);
     background-repeat: no-repeat; }
   .redesBlog .span2 {
-    background-image: url(/img/004-facebook.png);
+    background-image: url(../img/004-facebook.png);
     background-repeat: no-repeat; }
   .redesBlog .span3 {
-    background-image: url(/img/003-whatsapp.png);
+    background-image: url(../img/003-whatsapp.png);
     background-repeat: no-repeat; }
   .redesBlog .span4 {
-    background-image: url(/img//005-telegram.png);
+    background-image: url(../img//005-telegram.png);
     background-repeat: no-repeat; }
   .redesBlog .span5 {
-    background-image: url(/img/006-discord.png);
+    background-image: url(../img/006-discord.png);
     background-repeat: no-repeat; }
 
 .barraMenuFlotante {
