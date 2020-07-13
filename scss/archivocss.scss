@@ -158,6 +158,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .formulario2 img:hover {
+    background-color: rgba(0, 136, 226, 0.247);
+  }
   
   
   .contactoformulario {
@@ -270,7 +274,7 @@ body {
  }
   
   footer {
-    background-image: url(/img/fondo.png);
+    background-image: url(../img/fondo.png);
     background-size: cover;
     position: relative;
     &after {
